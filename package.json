@@ -1,0 +1,22 @@
+{
+  "name": "artillery-ts-starter",
+  "version": "1.0.0",
+  "description": "Starter project for Load testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "artillery run hello.yml"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Iliev88/artillery-ts-starter.git"
+  },
+  "keywords": [
+    "load-testing"
+  ],
+  "author": "Iliya Iliev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iliev88/artillery-ts-starter/issues"
+  },
+  "homepage": "https://github.com/Iliev88/artillery-ts-starter#readme"
+}
